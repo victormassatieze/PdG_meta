@@ -1,0 +1,15 @@
+[submodule "projeto-graduacao-doc"]
+	path = projeto-graduacao-doc
+	url = https://github.com/victormassatieze/projeto-graduacao-doc
+[submodule "PdG_MRes_methods"]
+	path = PdG_MRes_methods
+	url = https://github.com/victormassatieze/PdG_MRes_methods
+[submodule "PdG_tests"]
+	path = PdG_tests
+	url = https://github.com/victormassatieze/PdG_tests
+[submodule "PdG_SRes_methods"]
+	path = PdG_SRes_methods
+	url = https://github.com/victormassatieze/PdG_SRes_methods
+[submodule "PdG_combination_methods"]
+	path = PdG_combination_methods
+	url = https://github.com/victormassatieze/PdG_combination_methods
